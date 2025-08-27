@@ -22,7 +22,7 @@ This project provides a simple **batch script** to check if Python is installed 
 
 1. Clone this repository or download the script:
    ```bash
-   git clone https://github.com/yourusername/python-installer.git
+   https://github.com/RecepKarayigit/python-windows-installer.git
    ```
 
 2. Run the script:
